@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sirlamee
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python 3
+- 🌱 Currently working with NextJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me via email salamiayomide2019@gmail.com
 
